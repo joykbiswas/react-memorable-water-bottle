@@ -1,0 +1,9 @@
+.bottle{
+    padding: 10px;
+    border: 2px solid seagreen;
+
+    border-radius: 15px;
+}
+.bottle img{
+    width: 200px;
+}
